@@ -4,3 +4,6 @@ To get statistics on COVID-19 enter the name of the country, for example: USA, R
 
 Statistic data provided by Worldwide Data repository operated by the Johns Hopkins University Center for 
 Systems Science and Engineering (JHU CSSE)
+
+# Link to bot
+@covid_19_statistics_bot
